@@ -36,8 +36,7 @@ EZ Pass WV is ideal for educational purposes, demo projects, and portfolio showc
 
 **Name:** Your A/C Name  
 **Email:** youraccount@email.com  
-**Website:** EZ Pass WV  
-
+**Website:** [EZ Pass WV](https://www.ezpass-wv.com)
 **Bio:**  
 A passionate full-stack developer with years of experience in building scalable web applications. Expert in React, JavaScript, and UI design, with a strong focus on clean code and community support. Known for a helping nature, mentoring beginners, and contributing to open-source projects.
 
